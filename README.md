@@ -1,4 +1,4 @@
-# Shubham's Portfolio!
+# This is my friend's work, I liked it so made my own webpage. 
 
 > An idiot admires complexity an genius admires simplicity.
 
