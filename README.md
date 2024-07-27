@@ -1,6 +1,4 @@
-# This is my friend's work, I liked it so made my own webpage. 
+# This is the repository to my personal webpage. 
 
-It will take some time to make it up and working......
-> An idiot admires complexity an genius admires simplicity.
+This is inspired by my friend @shubhamessier 's personal website and I cloned it to make one for me. You can do that too if you like the minimal design of it.
 
-Hi! This is a minimal portfolio site I made for myself, feel free to clone it for yourself and use your creativity make improvements to existing code by forking and submitting a PR. It is made using HTML, CSS, JS (the simplest of web dev technologies)
